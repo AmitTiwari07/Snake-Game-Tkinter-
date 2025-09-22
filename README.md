@@ -58,10 +58,6 @@ SNAKE_COLOR = "#00FF00" # Snake color (green)
 FOOD_COLOR = "#FF0000"  # Food color (red)
 BACKGROUND_COLOR = "#000000" # Background (black)
 
-📸 Screenshot
-
-(You can add a screenshot of your game here once you run it.)
-
 🏆 Future Improvements
 
 Add difficulty levels
